@@ -20,6 +20,9 @@
         <a href="mailto:vadimtotok.dev@gmail.com">
           <img src="./contact/gmail.svg" alt="gmail">
         </a>
+        <a href="https://www.youtube.com/@vadimtotok" target="_blank">
+          <img src="./contact/youtube.svg" alt="YouTube">
+        </a>
       </div>
       <div class="stack">
         <h1>Stack</h1>
