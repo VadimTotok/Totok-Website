@@ -24,7 +24,7 @@
           <img src="./contact/youtube.svg" alt="YouTube">
         </a>
       </div>
-      <div class="stack">
+      <!-- <div class="stack">
         <h1>Stack</h1>
         <img src="./stack/Java.png" alt="Java">
         <img src="./stack/Kotlin.png" alt="Kotlin">
@@ -37,7 +37,7 @@
         <img src="./stack/vscode.png" alt="Visual Studio Code">
         <img src="./stack/Figma.png" alt="Figma">
         <img src="./stack/Obsidian.png" alt="Obsidian">
-      </div>
+      </div> -->
     </div>
   </div>
 </main>
